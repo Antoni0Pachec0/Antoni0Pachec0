@@ -1,14 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff0080,100:7928CA&text=Antonio%20Sánchez%20Pacheco%20%7C%20PacheCode&fontColor=ffffff&fontSize=36&desc=Fullstack%20Developer%20%7C%20Backend-Oriented%20%7C%20Microservices&descAlignY=70&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:16A34A,100:22C55E&text=Antonio%20Sánchez%20Pacheco%20%7C%20PacheCode&fontColor=ffffff&fontSize=32&desc=Fullstack%20Developer%20%7C%20Backend-Oriented%20%7C%20Microservices%20with%20NestJS&descAlignY=70&descAlign=50&animation=fadeIn)
 
 # 👋 Hi! I'm Antonio Sánchez Pacheco  
 **Fullstack Developer · Backend-Oriented · Microservices Enthusiast**
 
-⚡ Inspired by technology, retro-futurism, and rock culture.  
-Currently focused on **NestJS, scalable microservices, SQL databases, and cloud deployments.**
+⚡ Focused on building scalable systems with **NestJS**, SQL databases, and cloud deployments.  
+I enjoy designing APIs, managing data, and delivering production-ready applications.  
 
 ---
 
-## 🎸 Tech Stack
+## 🛠️ Tech Stack  
 
 **Programming Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
@@ -29,36 +29,37 @@ Currently focused on **NestJS, scalable microservices, SQL databases, and cloud 
 **Databases & Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![TablePlus](https://img.shields.io/badge/TablePlus-FCBC02?style=flat&logo=tableplus&logoColor=black) 
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white) 
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)  
 
 **DevOps & Cloud**  
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) 
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white) 
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white)  
 Hostinger · cPanel  
 
 **Other Tools**  
-Git/GitHub · Electron · ESC/POS (thermal printing) · n8n
+Git/GitHub · Electron · ESC/POS (thermal printing) · n8n  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
+
 - 🛒 **Grupo Forpa** — Hardware store system (**15k+ products**). Migrated to **microservices with NestJS**, backend ↔ frontend (Nuxt.js), deployed on Railway/Render/AWS Amplify.  
 - 📚 **Casa Lila** — Online learning platform. Backend **PHP + MySQL**, REST API in pure PHP, web frontend and **Flutter** mobile app.  
 - 🏪 **POS System (Freelance)** — **Vue.js + Electron** point-of-sale with barcode scanner & **thermal printer (ESC/POS)**; inventory and accounting modules.  
 
 ---
 
-## 📊 GitHub Stats (Retro Style)
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antoni0Pachec0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoni0Pachec0&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Antoni0Pachec0&show_icons=true&theme=green_nur&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoni0Pachec0&layout=compact&theme=green_nur&hide_border=true&langs_count=6" height="160" />
 </p>
 
 ---
 
-## 🤘 Soft Skills
+## 🤝 Soft Skills  
 - Problem-solving & critical thinking  
 - Teamwork & collaboration  
 - Project planning & ownership  
@@ -66,5 +67,6 @@ Git/GitHub · Electron · ESC/POS (thermal printing) · n8n
 
 ---
 
-## 💬 Let’s Connect
-📧 **antonio6pache6@gmail.com**
+## 💬 Let’s Connect  
+📧 **antonio6pache6@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/antonio-s%C3%A1nchez-pacheco-8134192aa)
