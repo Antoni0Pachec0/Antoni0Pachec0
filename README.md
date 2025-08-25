@@ -1,16 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:16A34A,100:22C55E&text=Antonio%20Sánchez%20Pacheco%20%7C%20PacheCode&fontColor=ffffff&fontSize=32&desc=Fullstack%20Developer%20%7C%20Backend-Oriented%20%7C%20Microservices%20with%20NestJS&descAlignY=70&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F766E,100:14B8A6&text=Antonio%20Sánchez%20Pacheco%20%7C%20PacheCode&fontColor=ffffff&fontSize=32&desc=Backend%20Developer%20%7C%20Microservices%20with%20NestJS%20%7C%20Cloud%20Deployments&descAlignY=70&descAlign=50&animation=fadeIn)
 
-# 👋 Hi! I'm Antonio Sánchez Pacheco  
-**Fullstack Developer · Backend-Oriented · Microservices Enthusiast**
+# 👋 Hola, soy Antonio Sánchez Pacheco  
+**Backend Developer · Microservices & Cloud Enthusiast**
 
-⚡ Focused on building scalable systems with **NestJS**, SQL databases, and cloud deployments.  
-I enjoy designing APIs, managing data, and delivering production-ready applications.  
+⚡ Especializado en el desarrollo de aplicaciones escalables con **NestJS**, bases de datos SQL y despliegue en la nube.  
+Tengo experiencia liderando proyectos académicos y freelance, optimizando sistemas con miles de registros e integrando APIs.  
+Aunque mi enfoque es backend, también tengo conocimientos en frontend con **Nuxt.js** y **Flutter**, lo que me permite colaborar en el ciclo completo de desarrollo.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Stack Tecnológico  
 
-**Programming Languages**  
+**Lenguajes de Programación**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
@@ -19,54 +20,54 @@ I enjoy designing APIs, managing data, and delivering production-ready applicati
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**  
+**Frameworks & Librerías**  
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) 
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00C58E?style=flat&logo=nuxt.js&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
 
-**Databases & Tools**  
+**Bases de Datos & Herramientas**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![TablePlus](https://img.shields.io/badge/TablePlus-FCBC02?style=flat&logo=tableplus&logoColor=black) 
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)  
 
 **DevOps & Cloud**  
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black) 
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat&logo=aws-amplify&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)  
 Hostinger · cPanel  
 
-**Other Tools**  
-Git/GitHub · Electron · ESC/POS (thermal printing) · n8n  
+**Otros**  
+Git/GitHub · Electron · ESC/POS (impresión térmica) · n8n  
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Proyectos Destacados  
 
-- 🛒 **Grupo Forpa** — Hardware store system (**15k+ products**). Migrated to **microservices with NestJS**, backend ↔ frontend (Nuxt.js), deployed on Railway/Render/AWS Amplify.  
-- 📚 **Casa Lila** — Online learning platform. Backend **PHP + MySQL**, REST API in pure PHP, web frontend and **Flutter** mobile app.  
-- 🏪 **POS System (Freelance)** — **Vue.js + Electron** point-of-sale with barcode scanner & **thermal printer (ESC/POS)**; inventory and accounting modules.  
+- 🛒 **Grupo Forpa** — Sistema de gestión para ferretería (**15k+ productos**). Migración a **microservicios con NestJS**, integración backend ↔ frontend (Nuxt.js), despliegue en Render y AWS Amplify.  
+- 🎓 **Congreso Estudiantil** — Plataforma web para +500 usuarios. Generación de gafetes con **QR en PDF** y despliegue en Hostinger.  
+- 📚 **Casa Lila** — Plataforma educativa en línea. Backend en **PHP + MySQL**, API para app móvil en Flutter.  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Estadísticas de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antoni0Pachec0&show_icons=true&theme=green_nur&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoni0Pachec0&layout=compact&theme=green_nur&hide_border=true&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Antoni0Pachec0&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoni0Pachec0&layout=compact&theme=calm&hide_border=true&langs_count=6" height="160" />
 </p>
 
 ---
 
-## 🤝 Soft Skills  
-- Problem-solving & critical thinking  
-- Teamwork & collaboration  
-- Project planning & ownership  
-- Continuous learning mindset  
+## 🤝 Habilidades Blandas  
+- Resolución de problemas y pensamiento crítico  
+- Trabajo en equipo multidisciplinario  
+- Planeación y gestión de proyectos  
+- Aprendizaje continuo  
 
 ---
 
-## 💬 Let’s Connect  
+## 💬 Contacto  
 📧 **antonio6pache6@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/antonio-s%C3%A1nchez-pacheco-8134192aa)
+🔗 [LinkedIn](https://www.linkedin.com/in/antoni0pachec0)  
