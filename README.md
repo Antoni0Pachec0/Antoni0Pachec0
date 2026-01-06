@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2F4A2F,100:365036&text=Antonio%20S%C3%A1nchez%20Pacheco%20%7C%20PacheCode&fontColor=ffffff&fontSize=32&desc=Backend%20Developer%20%7C%20Technical%20Project%20Lead&descAlignY=70&descAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=365036&text=Antonio%20S%C3%A1nchez%20Pacheco%20%7C%20PacheCode&fontColor=ffffff&fontSize=32&desc=Backend%20Developer%20%7C%20Technical%20Project%20Lead&descAlignY=70&descAlign=50&animation=fadeIn)
 
 # Antonio Sánchez Pacheco
 **Backend Developer · Technical Project Lead**
